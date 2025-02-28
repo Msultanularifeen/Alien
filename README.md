@@ -43,6 +43,6 @@ The `style.css` file contains the styles for the webpage. It includes basic styl
 ## How to Run
 
 1. Clone the repository:
-   ```sh
-  https://github.com/Msultanularifeen/Alien
-```
+  ```
+   git clone https://github.com/Msultanularifeen/WEB-Projects
+   ```
